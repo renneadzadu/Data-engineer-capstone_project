@@ -8,7 +8,7 @@ This Capstone Project requires learners to work with the following technologies 
 <img width="347" alt="Screenshot 2023-06-27 001440" src="https://github.com/renneadzadu/Data-engineer-capstone_project/assets/101274217/ef67d053-b09f-456a-a782-01c2694a9571">
 
 # Business Requirements - Extract Transfere Load (ETL)
-## 1. Functional Requirements - Load Credit Card Database (SQL)
+## 1. Functional Requirements
 <img width="336" alt="Screenshot 2023-06-27 090129" src="https://github.com/renneadzadu/Data-engineer-capstone_project/assets/101274217/48025e2a-3298-4e6b-b375-6070ea9ee1a2">
 <img width="314" alt="Screenshot 2023-06-27 090325" src="https://github.com/renneadzadu/Data-engineer-capstone_project/assets/101274217/0d911fee-f334-46b5-b2c1-71d96061903b">
 
@@ -21,6 +21,9 @@ This Capstone Project requires learners to work with the following technologies 
 
 ### CDW_SAPP_CUSTOMER
 <img width="761" alt="Screenshot 2023-06-27 095331" src="https://github.com/renneadzadu/Data-engineer-capstone_project/assets/101274217/7a90de2e-2977-4f88-8a66-d713f1455bd9">
+
+## 1.2 Data Loading into the Database
+<img width="952" alt="Screenshot 2023-06-27 150750" src="https://github.com/renneadzadu/Data-engineer-capstone_project/assets/101274217/5f0d945d-a527-4628-a446-10a717901c12">
 
 # 2. Functional Requirements - Application Front-End 
 Once data is loaded into the database, we need a front-end (console) to see/display data. For that, create a console-based Python program to satisfy System Requirements 2 (2.1 and 2.2). 
