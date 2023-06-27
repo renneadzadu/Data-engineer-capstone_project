@@ -33,13 +33,13 @@ After data is loaded into the database, users can make changes from the front en
 <img width="306" alt="Screenshot 2023-06-27 092403" src="https://github.com/renneadzadu/Data-engineer-capstone_project/assets/101274217/76bf7525-eb86-49b3-8565-a872bdc129c6">
 
 ### 3.1  Transaction type has a high rate of transactions
-![Graph 3.1](https://github.com/renneadzadu/capstone_project/assets/101274217/3eab1e28-7442-4780-a753-ca76efc0547e)
+![Figure_5](https://github.com/renneadzadu/Data-engineer-capstone_project/assets/101274217/8e958f0d-9a99-443e-bb29-506a5c969fa5)
 
 ### 3.2 State has a high number of customers
-![Figure_3](https://github.com/renneadzadu/capstone_project/assets/101274217/702a9464-680e-41c9-b22a-1ef767b548e3)
+![Figure_3](https://github.com/renneadzadu/Data-engineer-capstone_project/assets/101274217/93d8880b-447e-412e-8aa6-9aa57af5bf95)
 
 ### 3.3 Sum of all transactions for the top 10 customers, and which customer has the highest transaction amount.
-![Figure_8](https://github.com/renneadzadu/capstone_project/assets/101274217/43b2deb8-e796-4f8c-935a-c96d9be51c2e)
+![Figure_8](https://github.com/renneadzadu/Data-engineer-capstone_project/assets/101274217/1a81a90d-67b1-49b1-80d6-ca36b1a865a4)
 
 ## Overview of LOAN Application Data API
 ### 4. Functional Requirements - LOAN Application Dataset
@@ -53,19 +53,19 @@ After data is loaded into the database, users can make changes from the front en
 <img width="323" alt="Screenshot 2023-06-27 092848" src="https://github.com/renneadzadu/Data-engineer-capstone_project/assets/101274217/631ebbb8-c880-4ec5-b2b7-3dc077c100fa">
 
 ### 5.1 Self-employed applicants
-![Figure_6](https://github.com/renneadzadu/capstone_project/assets/101274217/b0ceed33-e4c5-4d66-b720-7c97184b5f55)
+![Figure_6](https://github.com/renneadzadu/Data-engineer-capstone_project/assets/101274217/cc06e6d6-9456-4ad9-8227-368b0aee98f9)
 
 ### 5.2 Rejection for married male applicants
-![Figure_7](https://github.com/renneadzadu/capstone_project/assets/101274217/39dcf4e4-94d5-4af1-b3de-c5fa33eab0fe)
+![Figure_7](https://github.com/renneadzadu/Data-engineer-capstone_project/assets/101274217/9ade18f8-af12-4451-b5e4-fceaefaee234)
 
 ### 5.3 Top three months with the largest transaction data
-![Figure_1](https://github.com/renneadzadu/capstone_project/assets/101274217/506d9c5f-fa50-4fa9-b1ce-f12f07d018f9)
+![Figure_1](https://github.com/renneadzadu/Data-engineer-capstone_project/assets/101274217/37fc4996-cbc9-483d-aa3e-020668bc74e6)
 
 ### 5.4 Branch processed the highest total dollar value of healthcare transactions 
-![Figure_4](https://github.com/renneadzadu/capstone_project/assets/101274217/6061053a-52c3-4398-b774-885281533dab)
+![Figure_4](https://github.com/renneadzadu/Data-engineer-capstone_project/assets/101274217/c461846b-1fac-4c72-a055-d51120336aad)
 
 ### Transaction types
-![Figure_2](https://github.com/renneadzadu/capstone_project/assets/101274217/0b7ab119-843a-401b-9fef-01852e101bd6)
+![Figure_2](https://github.com/renneadzadu/Data-engineer-capstone_project/assets/101274217/05037542-dc64-4ea0-8752-d74d248c2bdf)
 
 
 ## Technical Challenges 
