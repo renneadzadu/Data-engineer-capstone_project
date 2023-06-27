@@ -10,7 +10,6 @@ This Capstone Project requires learners to work with the following technologies 
 # Business Requirements - Extract Transfere Load (ETL)
 ## 1. Functional Requirements
 <img width="336" alt="Screenshot 2023-06-27 090129" src="https://github.com/renneadzadu/Data-engineer-capstone_project/assets/101274217/48025e2a-3298-4e6b-b375-6070ea9ee1a2">
-<img width="314" alt="Screenshot 2023-06-27 090325" src="https://github.com/renneadzadu/Data-engineer-capstone_project/assets/101274217/0d911fee-f334-46b5-b2c1-71d96061903b">
 
 ### CDW_SAPP_BRANCH
 <img width="518" alt="Screenshot 2023-06-27 095008" src="https://github.com/renneadzadu/Data-engineer-capstone_project/assets/101274217/2725b0ef-d3d6-40cb-92d6-a74dde49efc5">
@@ -23,6 +22,7 @@ This Capstone Project requires learners to work with the following technologies 
 <img width="761" alt="Screenshot 2023-06-27 095331" src="https://github.com/renneadzadu/Data-engineer-capstone_project/assets/101274217/7a90de2e-2977-4f88-8a66-d713f1455bd9">
 
 ## 1.2 Data Loading into the Database
+<img width="314" alt="Screenshot 2023-06-27 090325" src="https://github.com/renneadzadu/Data-engineer-capstone_project/assets/101274217/0672ae42-267c-436f-b386-9e1742b4271f">
 <img width="952" alt="Screenshot 2023-06-27 150750" src="https://github.com/renneadzadu/Data-engineer-capstone_project/assets/101274217/5f0d945d-a527-4628-a446-10a717901c12">
 
 # 2. Functional Requirements - Application Front-End 
