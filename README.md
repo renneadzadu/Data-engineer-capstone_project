@@ -13,24 +13,24 @@ This Capstone Project requires learners to work with the following technologies 
 <img width="314" alt="Screenshot 2023-06-27 090325" src="https://github.com/renneadzadu/Data-engineer-capstone_project/assets/101274217/0d911fee-f334-46b5-b2c1-71d96061903b">
 
 ### CDW_SAPP_BRANCH
-<img width="518" alt="Screenshot 2023-06-27 095008" src="https://github.com/renneadzadu/Data-engineer-capstone_project/assets/101274217/aa784a81-644a-4e3b-8711-b5cc423b5106">
+<img width="518" alt="Screenshot 2023-06-27 095008" src="https://github.com/renneadzadu/Data-engineer-capstone_project/assets/101274217/2725b0ef-d3d6-40cb-92d6-a74dde49efc5">
+
 
 ### CDW_SAPP_CREDIT_CARD
-<img width="452" alt="Screenshot 2023-06-27 095220" src="https://github.com/renneadzadu/capstone_project/assets/101274217/d3fa3887-6aad-4ccb-8c71-30b6661faf70">
+<img width="452" alt="Screenshot 2023-06-27 095220" src="https://github.com/renneadzadu/Data-engineer-capstone_project/assets/101274217/7c53271c-c63d-4536-84a4-48c27585ff49">
 
 ### CDW_SAPP_CUSTOMER
-<img width="761" alt="Screenshot 2023-06-27 095331" src="https://github.com/renneadzadu/capstone_project/assets/101274217/5dbdac6d-719e-4fe4-98fa-25b0e776a7bb">
-
+<img width="761" alt="Screenshot 2023-06-27 095331" src="https://github.com/renneadzadu/Data-engineer-capstone_project/assets/101274217/7a90de2e-2977-4f88-8a66-d713f1455bd9">
 
 # 2. Functional Requirements - Application Front-End 
 Once data is loaded into the database, we need a front-end (console) to see/display data. For that, create a console-based Python program to satisfy System Requirements 2 (2.1 and 2.2). 
 ##  2.1 Transaction Details Module - 2.2 Customer Details Module
-<img width="302" alt="Screenshot 2023-06-27 090902" src="https://github.com/renneadzadu/capstone_project/assets/101274217/fdb1b85f-272f-4ca8-91dc-c1722eedf0af">
-<img width="307" alt="Screenshot 2023-06-27 091331" src="https://github.com/renneadzadu/capstone_project/assets/101274217/04b1082d-ebbf-4da4-be88-e70a899113a2">
+<img width="302" alt="Screenshot 2023-06-27 090902" src="https://github.com/renneadzadu/Data-engineer-capstone_project/assets/101274217/d7d100bf-4944-4b37-bbd6-168d7d989d5e">
+<img width="307" alt="Screenshot 2023-06-27 091331" src="https://github.com/renneadzadu/Data-engineer-capstone_project/assets/101274217/675c4e18-9d49-46c7-952b-0f75f69fbf42">
 
 ## 3. Functional Requirements - Data Analysis and Visualization
 After data is loaded into the database, users can make changes from the front end, and they can also view data from the front end. Now, the business analyst team wants to analyze and visualize the data. Use Python libraries for the below requirements:
-<img width="306" alt="Screenshot 2023-06-27 092403" src="https://github.com/renneadzadu/capstone_project/assets/101274217/f19d18e1-e24d-431d-a6ad-0d35333a1a3e">
+<img width="306" alt="Screenshot 2023-06-27 092403" src="https://github.com/renneadzadu/Data-engineer-capstone_project/assets/101274217/76bf7525-eb86-49b3-8565-a872bdc129c6">
 
 ### 3.1  Transaction type has a high rate of transactions
 ![Graph 3.1](https://github.com/renneadzadu/capstone_project/assets/101274217/3eab1e28-7442-4780-a753-ca76efc0547e)
@@ -43,16 +43,14 @@ After data is loaded into the database, users can make changes from the front en
 
 ## Overview of LOAN Application Data API
 ### 4. Functional Requirements - LOAN Application Dataset
-<img width="316" alt="Screenshot 2023-06-27 092732" src="https://github.com/renneadzadu/capstone_project/assets/101274217/630034c3-eec5-4e17-b593-a553a1da2315">
+<img width="316" alt="Screenshot 2023-06-27 092732" src="https://github.com/renneadzadu/Data-engineer-capstone_project/assets/101274217/c6a0ba00-d68d-4fba-9ab2-e5621350c640">
 
 ### CDW-SAPP_loan_application
-<img width="533" alt="Screenshot 2023-06-27 101249" src="https://github.com/renneadzadu/capstone_project/assets/101274217/e5f8b470-e9ef-4717-8b36-1c67fb77a35a">
-<img width="238" alt="Screenshot 2023-06-27 101338" src="https://github.com/renneadzadu/capstone_project/assets/101274217/d5e53123-4d19-4fa2-b6d9-fe8017f3f6ff">
-
-
+<img width="533" alt="Screenshot 2023-06-27 101249" src="https://github.com/renneadzadu/Data-engineer-capstone_project/assets/101274217/a0f21615-5992-4ceb-8e58-16008b216b2b">
+<img width="238" alt="Screenshot 2023-06-27 101338" src="https://github.com/renneadzadu/Data-engineer-capstone_project/assets/101274217/ad8fd847-4ca6-420f-97ef-47db72334b29">
 
 ## 5. Functional Requirements - Data Analysis and Visualization for LOAN Application
-<img width="323" alt="Screenshot 2023-06-27 092848" src="https://github.com/renneadzadu/capstone_project/assets/101274217/0cffc270-38f9-49ed-9e92-f697beb5cc58">
+<img width="323" alt="Screenshot 2023-06-27 092848" src="https://github.com/renneadzadu/Data-engineer-capstone_project/assets/101274217/631ebbb8-c880-4ec5-b2b7-3dc077c100fa">
 
 ### 5.1 Self-employed applicants
 ![Figure_6](https://github.com/renneadzadu/capstone_project/assets/101274217/b0ceed33-e4c5-4d66-b720-7c97184b5f55)
