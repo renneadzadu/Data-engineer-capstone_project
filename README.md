@@ -13,10 +13,13 @@ This Capstone Project requires learners to work with the following technologies 
 <img width="336" alt="Screenshot 2023-06-27 090129" src="https://github.com/renneadzadu/capstone_project/assets/101274217/5f1792ab-14fa-4c71-b207-f62e4870b6ca">
 <img width="314" alt="Screenshot 2023-06-27 090325" src="https://github.com/renneadzadu/capstone_project/assets/101274217/d5d1e18e-2339-4efb-bd61-1d5d69a07f86">
 
+### CDW_SAPP_BRANCH
 <img width="518" alt="Screenshot 2023-06-27 095008" src="https://github.com/renneadzadu/capstone_project/assets/101274217/aa784a81-644a-4e3b-8711-b5cc423b5106">
 
+### CDW_SAPP_CREDIT_CARD
 <img width="452" alt="Screenshot 2023-06-27 095220" src="https://github.com/renneadzadu/capstone_project/assets/101274217/d3fa3887-6aad-4ccb-8c71-30b6661faf70">
 
+### CDW_SAPP_CUSTOMER
 <img width="761" alt="Screenshot 2023-06-27 095331" src="https://github.com/renneadzadu/capstone_project/assets/101274217/5dbdac6d-719e-4fe4-98fa-25b0e776a7bb">
 
 
@@ -42,6 +45,12 @@ After data is loaded into the database, users can make changes from the front en
 ## Overview of LOAN Application Data API
 ### 4. Functional Requirements - LOAN Application Dataset
 <img width="316" alt="Screenshot 2023-06-27 092732" src="https://github.com/renneadzadu/capstone_project/assets/101274217/630034c3-eec5-4e17-b593-a553a1da2315">
+
+### CDW-SAPP_loan_application
+<img width="533" alt="Screenshot 2023-06-27 101249" src="https://github.com/renneadzadu/capstone_project/assets/101274217/e5f8b470-e9ef-4717-8b36-1c67fb77a35a">
+<img width="238" alt="Screenshot 2023-06-27 101338" src="https://github.com/renneadzadu/capstone_project/assets/101274217/d5e53123-4d19-4fa2-b6d9-fe8017f3f6ff">
+
+
 
 ## 5. Functional Requirements - Data Analysis and Visualization for LOAN Application
 <img width="323" alt="Screenshot 2023-06-27 092848" src="https://github.com/renneadzadu/capstone_project/assets/101274217/0cffc270-38f9-49ed-9e92-f697beb5cc58">
