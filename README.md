@@ -26,6 +26,8 @@ Once data is loaded into the database, we need a front-end (console) to see/disp
 <img width="302" alt="Screenshot 2023-06-27 090902" src="https://github.com/renneadzadu/capstone_project/assets/101274217/fdb1b85f-272f-4ca8-91dc-c1722eedf0af">
 <img width="307" alt="Screenshot 2023-06-27 091331" src="https://github.com/renneadzadu/capstone_project/assets/101274217/04b1082d-ebbf-4da4-be88-e70a899113a2">
 
+![Graph 3.1](https://github.com/renneadzadu/capstone_project/assets/101274217/3eab1e28-7442-4780-a753-ca76efc0547e)
+
 ## 3. Functional Requirements - Data Analysis and Visualization
 After data is loaded into the database, users can make changes from the front end, and they can also view data from the front end. Now, the business analyst team wants to analyze and visualize the data. Use Python libraries for the below requirements:
 <img width="306" alt="Screenshot 2023-06-27 092403" src="https://github.com/renneadzadu/capstone_project/assets/101274217/f19d18e1-e24d-431d-a6ad-0d35333a1a3e">
