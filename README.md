@@ -77,15 +77,15 @@ I overcome this impedimented and adapt the mapping documents to match the desire
 ### Mapping Documents
 https://docs.google.com/spreadsheets/d/1t8UxBrUV6dxx0pM1VIIGZpSf4IKbzjdJ/edit#gid=1823293337
 
-### Tecnologiest and Skillsets 
-Apache Spark UI
-SQL
-Pyspark SQL
-Python
-Spark DataFrame
-REST API
-Git
-MySQL Database
-Numpy Library
-Pandas library
-Matplotlib library
+## Tecnologiest and Skillsets 
+### Apache Spark UI
+### SQL
+### Pyspark SQL
+### Python
+### Spark DataFrame
+### REST API
+### Git
+### MySQL Database
+### Numpy Library
+### Pandas library
+### Matplotlib library
