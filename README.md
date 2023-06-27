@@ -71,3 +71,11 @@ After data is loaded into the database, users can make changes from the front en
 ![Figure_2](https://github.com/renneadzadu/capstone_project/assets/101274217/0b7ab119-843a-401b-9fef-01852e101bd6)
 
 
+## Technical Challenges 
+I encountered a challenge with the mapping logic for the customer phone numbers. The desired format for the phone numbers was "(XXX)XXX-XXXX", but I was initially given the format "XXX-XXX". To resolve this, I assigned the area code digits based on the provided zip code to ensure that the phone numbers are in the correct format.
+I overcome this impedimented and adapt the mapping documents to match the desired mapping logic.
+
+### Mapping Documents
+https://docs.google.com/spreadsheets/d/1t8UxBrUV6dxx0pM1VIIGZpSf4IKbzjdJ/edit#gid=1823293337
+
+
