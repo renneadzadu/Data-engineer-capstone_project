@@ -79,13 +79,13 @@ https://docs.google.com/spreadsheets/d/1t8UxBrUV6dxx0pM1VIIGZpSf4IKbzjdJ/edit#gi
 
 ## Tecnologiest and Skillsets 
 #### Apache Spark UI
-### SQL
-### Pyspark SQL
-### Python
-### Spark DataFrame
-### REST API
-### Git
-### MySQL Database
-### Numpy Library
-### Pandas library
-### Matplotlib library
+#### SQL
+#### Pyspark SQL
+#### Python
+#### Spark DataFrame
+#### REST API
+#### Git
+#### MySQL Database
+#### Numpy Library
+#### Pandas library
+#### Matplotlib library
