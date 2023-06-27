@@ -17,3 +17,6 @@ This Capstone Project requires learners to work with the following technologies 
 Once data is loaded into the database, we need a front-end (console) to see/display data. For that, create a console-based Python program to satisfy System Requirements 2 (2.1 and 2.2). 
 ##  2.1 Transaction Details Module
 <img width="302" alt="Screenshot 2023-06-27 090902" src="https://github.com/renneadzadu/capstone_project/assets/101274217/fdb1b85f-272f-4ca8-91dc-c1722eedf0af">
+
+### 2.2 Customer Details Module
+<img width="307" alt="Screenshot 2023-06-27 091331" src="https://github.com/renneadzadu/capstone_project/assets/101274217/04b1082d-ebbf-4da4-be88-e70a899113a2">
