@@ -52,6 +52,8 @@ After data is loaded into the database, users can make changes from the front en
 
 ### CDW-SAPP_loan_application
 <img width="533" alt="Screenshot 2023-06-27 101249" src="https://github.com/renneadzadu/Data-engineer-capstone_project/assets/101274217/a0f21615-5992-4ceb-8e58-16008b216b2b">
+
+### SQL Qurey
 <img width="238" alt="Screenshot 2023-06-27 101338" src="https://github.com/renneadzadu/Data-engineer-capstone_project/assets/101274217/ad8fd847-4ca6-420f-97ef-47db72334b29">
 
 ## 5. Functional Requirements - Data Analysis and Visualization for LOAN Application
