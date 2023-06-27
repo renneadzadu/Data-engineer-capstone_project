@@ -37,6 +37,8 @@ After data is loaded into the database, users can make changes from the front en
 
 ### 3.1  Transaction type has a high rate of transactions
 ![Figure_5](https://github.com/renneadzadu/Data-engineer-capstone_project/assets/101274217/8e958f0d-9a99-443e-bb29-506a5c969fa5)
+<img width="392" alt="Screenshot 2023-06-27 154002" src="https://github.com/renneadzadu/Data-engineer-capstone_project/assets/101274217/d151b4ac-4ecf-44f8-8390-23586f65cb78">
+
 
 ### 3.2 State has a high number of customers
 ![Figure_3](https://github.com/renneadzadu/Data-engineer-capstone_project/assets/101274217/93d8880b-447e-412e-8aa6-9aa57af5bf95)
