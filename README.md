@@ -14,7 +14,9 @@ This Capstone Project requires learners to work with the following technologies 
 <img width="314" alt="Screenshot 2023-06-27 090325" src="https://github.com/renneadzadu/capstone_project/assets/101274217/d5d1e18e-2339-4efb-bd61-1d5d69a07f86">
 
 <img width="518" alt="Screenshot 2023-06-27 095008" src="https://github.com/renneadzadu/capstone_project/assets/101274217/aa784a81-644a-4e3b-8711-b5cc423b5106">
+
 <img width="452" alt="Screenshot 2023-06-27 095220" src="https://github.com/renneadzadu/capstone_project/assets/101274217/d3fa3887-6aad-4ccb-8c71-30b6661faf70">
+
 <img width="761" alt="Screenshot 2023-06-27 095331" src="https://github.com/renneadzadu/capstone_project/assets/101274217/5dbdac6d-719e-4fe4-98fa-25b0e776a7bb">
 
 
