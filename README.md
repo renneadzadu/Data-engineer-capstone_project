@@ -10,7 +10,7 @@ This Capstone Project requires learners to work with the following technologies 
 
 # Business Requirements - Extract Transfere Load (ETL)
 ## 1. Functional Requirements - Load Credit Card Database (SQL)
-<img width="336" alt="Screenshot 2023-06-27 090129" src="https://github.com/renneadzadu/capstone_project/assets/101274217/5f1792ab-14fa-4c71-b207-f62e4870b6ca">
+<img width="336" alt="Screenshot 2023-06-27 090129" src="https://github.com/renneadzadu/Data-engineer-capstone_project/assets/101274217/5f1792ab-14fa-4c71-b207-f62e4870b6ca">
 <img width="314" alt="Screenshot 2023-06-27 090325" src="https://github.com/renneadzadu/capstone_project/assets/101274217/d5d1e18e-2339-4efb-bd61-1d5d69a07f86">
 
 ### CDW_SAPP_BRANCH
