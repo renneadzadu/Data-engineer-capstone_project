@@ -26,6 +26,10 @@ Once data is loaded into the database, we need a front-end (console) to see/disp
 <img width="302" alt="Screenshot 2023-06-27 090902" src="https://github.com/renneadzadu/capstone_project/assets/101274217/fdb1b85f-272f-4ca8-91dc-c1722eedf0af">
 <img width="307" alt="Screenshot 2023-06-27 091331" src="https://github.com/renneadzadu/capstone_project/assets/101274217/04b1082d-ebbf-4da4-be88-e70a899113a2">
 
+## 3. Functional Requirements - Data Analysis and Visualization
+After data is loaded into the database, users can make changes from the front end, and they can also view data from the front end. Now, the business analyst team wants to analyze and visualize the data. Use Python libraries for the below requirements:
+<img width="306" alt="Screenshot 2023-06-27 092403" src="https://github.com/renneadzadu/capstone_project/assets/101274217/f19d18e1-e24d-431d-a6ad-0d35333a1a3e">
+
 ### 3.1  Transaction type has a high rate of transactions
 ![Graph 3.1](https://github.com/renneadzadu/capstone_project/assets/101274217/3eab1e28-7442-4780-a753-ca76efc0547e)
 
@@ -35,10 +39,6 @@ Once data is loaded into the database, we need a front-end (console) to see/disp
 ### 3.3 Sum of all transactions for the top 10 customers, and which customer has the highest transaction amount.
 ![Figure_8](https://github.com/renneadzadu/capstone_project/assets/101274217/43b2deb8-e796-4f8c-935a-c96d9be51c2e)
 
-## 3. Functional Requirements - Data Analysis and Visualization
-After data is loaded into the database, users can make changes from the front end, and they can also view data from the front end. Now, the business analyst team wants to analyze and visualize the data. Use Python libraries for the below requirements:
-<img width="306" alt="Screenshot 2023-06-27 092403" src="https://github.com/renneadzadu/capstone_project/assets/101274217/f19d18e1-e24d-431d-a6ad-0d35333a1a3e">
-
 ## Overview of LOAN Application Data API
 ### 4. Functional Requirements - LOAN Application Dataset
 <img width="316" alt="Screenshot 2023-06-27 092732" src="https://github.com/renneadzadu/capstone_project/assets/101274217/630034c3-eec5-4e17-b593-a553a1da2315">
@@ -46,5 +46,19 @@ After data is loaded into the database, users can make changes from the front en
 ## 5. Functional Requirements - Data Analysis and Visualization for LOAN Application
 <img width="323" alt="Screenshot 2023-06-27 092848" src="https://github.com/renneadzadu/capstone_project/assets/101274217/0cffc270-38f9-49ed-9e92-f697beb5cc58">
 
+### 5.1 Self-employed applicants
+![Figure_6](https://github.com/renneadzadu/capstone_project/assets/101274217/b0ceed33-e4c5-4d66-b720-7c97184b5f55)
+
+### 5.2 Rejection for married male applicants
+![Figure_7](https://github.com/renneadzadu/capstone_project/assets/101274217/39dcf4e4-94d5-4af1-b3de-c5fa33eab0fe)
+
+### 5.3 Top three months with the largest transaction data
+![Figure_1](https://github.com/renneadzadu/capstone_project/assets/101274217/506d9c5f-fa50-4fa9-b1ce-f12f07d018f9)
+
+### 5.4 Branch processed the highest total dollar value of healthcare transactions 
+![Figure_4](https://github.com/renneadzadu/capstone_project/assets/101274217/6061053a-52c3-4398-b774-885281533dab)
+
+### Transaction types
+![Figure_2](https://github.com/renneadzadu/capstone_project/assets/101274217/0b7ab119-843a-401b-9fef-01852e101bd6)
 
 
