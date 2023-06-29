@@ -44,7 +44,7 @@ After data is loaded into the database, users can make changes from the front en
 ![Figure_3](https://github.com/renneadzadu/Data-engineer-capstone_project/assets/101274217/93d8880b-447e-412e-8aa6-9aa57af5bf95)
 
 ### 3.3 Sum of all transactions for the top 10 customers, and which customer has the highest transaction amount.
-![Figure_8](https://github.com/renneadzadu/Data-engineer-capstone_project/assets/101274217/1a81a90d-67b1-49b1-80d6-ca36b1a865a4)
+![Figure_2](https://github.com/renneadzadu/Data-engineer-capstone_project/assets/101274217/4912f22d-6019-4717-a011-77d7dd1298e5)
 
 ## Overview of LOAN Application Data API
 ### 4. Functional Requirements - LOAN Application Dataset
