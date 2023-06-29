@@ -71,6 +71,9 @@ MarkupSafe==2.1.2
 matplotlib==3.7.1
 matplotlib-inline==0.1.6
 mistune==2.0.5
+mysql==0.0.3
+mysql-connector-python==8.0.33
+mysqlclient==2.2.0
 nbclassic==0.5.5
 nbclient==0.7.3
 nbconvert==7.3.1
@@ -91,6 +94,7 @@ platformdirs==3.7.0
 pprintjson==1.4.2
 prometheus-client==0.16.0
 prompt-toolkit==3.0.38
+protobuf==3.20.3
 psutil==5.9.4
 pure-eval==0.2.2
 py4j==0.10.9.7
@@ -102,6 +106,7 @@ pyproj==3.6.0
 pyrsistent==0.19.3
 pyspark==3.4.0
 python-dateutil==2.8.2
+python-dotenv==1.0.0
 python-json-logger==2.0.7
 pytz==2023.3
 pywin32==306

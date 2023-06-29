@@ -277,7 +277,7 @@ customer_names = top_10_customers["FIRST_NAME"] + " " + top_10_customers["LAST_N
 transaction_values = top_10_customers["TOTAL_VALUE"]
 
 plt.figure(figsize=(12, 6))
-plt.stackplot(customer_names, transaction_values)
+plt.bar(customer_names, transaction_values)
 plt.xlabel("Customer")
 plt.ylabel("Total Transaction Value")
 plt.title("Sum of Transactions for Top 10 Customers")
