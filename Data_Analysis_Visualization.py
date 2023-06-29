@@ -219,14 +219,11 @@ plt.show()
 transaction_rates = CDW_SAPP_CREDIT_CARD.groupBy("TRANSACTION_TYPE").count().orderBy("count", ascending=False)
 types = [row["TRANSACTION_TYPE"] for row in transaction_rates.collect()]
 counts = [row["count"] for row in transaction_rates.collect()]
-
-colors = ['#' + ''.join([random.choice('0123456789ABCDEF') for _ in range(6)]) for _ in range(3)]
-
 plt.figure(figsize=(10, 6))
 plt.barh(types, counts, color=colors)
 
-plt.xlabel("Transaction Type")
-plt.ylabel("Transaction Count")
+plt.xlabel("Transaction Count")
+plt.ylabel("Transaction Type")
 plt.title("Transaction Rates by Transaction Type")
 plt.show()
 
